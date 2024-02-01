@@ -10,6 +10,10 @@
 #include <queue>
 #include <semaphore>
 
+#include "esp_vfs_dev.h"
+#include "driver/uart.h"
+
+
 template <typename Logger>
 class WifiSniffer {
 public:
@@ -17,47 +21,69 @@ public:
 
     void start() {
         ESP_LOGI(tag_, "Starting WiFi Sniffer");
+        
+
+            init_uart();
+
+            char userTargetMac[18];
+            std::cout<<"Please enter target MAC:\n";   
+            std::cin>> userTargetMac;
+            std::cout<<"UserTargetMac is:"<<userTargetMac<<"\n";
+
+
+
+        if (sscanf(userTargetMac, "%hhx:%hhx:%hhx:%hhx:%hhx:%hhx",
+               &targetMac[0], &targetMac[1], &targetMac[2],
+               &targetMac[3], &targetMac[4], &targetMac[5]) != 6)
+        {
+            std::cout<<"Invalid MAC address format.\n";
+            return;
+        }    
+        
+
         init();
+
         while (1) {
-            for (int channel = 10; channel <= 10; channel++) {
+
+            for (int channel = 3; channel <= 3; channel++) {
                 hopChannel(channel);
-                vTaskDelay(100000 / portTICK_PERIOD_MS);  // Delay for 5 seconds between channel hops
+                vTaskDelay(10000 / portTICK_PERIOD_MS);  // Delay for 5 seconds between channel hops
             }
         }
     }
 
 private:
 
+    uint8_t targetMac[6];// = {0x04, 0x95, 0xe6, 0xf4, 0xfa, 0x11};  10-5B-AD-52-AD-81
     //static std::queue<std::pair<void *,void *>> q;
     //std::binary_semaphore prepareSignal(0);
     static WifiSniffer<Logger>* instance_;  // Static member variable to store the instance
 
     static void packetHandler(void* buff, wifi_promiscuous_pkt_type_t type) {
         //q.push({buff,(void *)type});
-        prepareSignal.release();
-        //instance_->handlePacket(buff, type);
+        //prepareSignal.release();
+        instance_->handlePacket(buff, type);
     }
 
-    void 
+    //void 
 
-    void handlePacket(/*void* buff, wifi_promiscuous_pkt_type_t type*/) {
+    void handlePacket(void* buff, wifi_promiscuous_pkt_type_t type) {
 
         //prepareSignal.acquire();
         //void *buff = q.front().first;
         //void * type = q.front().second;
-        //type = reinterpret_cast<wifi_promiscuous_pkt_type_t>(type);
+         //type = reinterpret_cast<wifi_promiscuous_pkt_type_t>(type);
         //q.pop();
-        if (*type == WIFI_PKT_MGMT) {
+        if (type == WIFI_PKT_MGMT) {
             wifi_promiscuous_pkt_t *pkt = reinterpret_cast<wifi_promiscuous_pkt_t *>(buff);
             wifi_ieee80211_packet_t *ipkt = reinterpret_cast<wifi_ieee80211_packet_t *> (pkt->payload);
             wifi_ieee80211_mac_hdr_t *hdr = &ipkt->hdr;
 
             // Extract source MAC address
             // Adjust the offset based on the frame structure
+            // 
 
-            uint8_t targetMac[] = {0x04, 0x95, 0xe6, 0xf4, 0xfa, 0x11};
-
-            if(std::equal(hdr->addr2, hdr->addr2 + 6, std::begin(targetMac)))
+            if(std::equal(hdr->addr1, hdr->addr1 + 6, std::begin(targetMac))||std::equal(hdr->addr2, hdr->addr2 + 6, std::begin(targetMac)))
             {
             logger_.log("Receiver MAC Address", hdr->addr1,6);
             logger_.log("Sender MAC Address", hdr->addr2,6);
@@ -82,10 +108,24 @@ private:
             logger_.log("Packet Payload (first 16 bytes)", pkt->payload, std::min((std::size_t)16, packet_len));
         }
     }
-         vTaskDelay(1000/ portTICK_PERIOD_MS);
+         //vTaskDelay(1000/ portTICK_PERIOD_MS);
+    }
+
+    void init_uart()
+    {
+        setvbuf(stdin, NULL, _IONBF, 0);
+    /* Install UART driver for interrupt-driven reads and writes */
+        ESP_ERROR_CHECK( uart_driver_install( (uart_port_t)CONFIG_ESP_CONSOLE_UART_NUM,
+            256, 0, 0, NULL, 0) );
+    /* Tell VFS to use UART driver */
+        esp_vfs_dev_uart_use_driver(CONFIG_ESP_CONSOLE_UART_NUM);
+        esp_vfs_dev_uart_port_set_rx_line_endings(CONFIG_ESP_CONSOLE_UART_NUM, ESP_LINE_ENDINGS_CR);
+    /* Move the caret to the beginning of the next line on '\n' */
+        esp_vfs_dev_uart_port_set_tx_line_endings(CONFIG_ESP_CONSOLE_UART_NUM, ESP_LINE_ENDINGS_CRLF);
     }
 
     void init() {
+
         // Initialize NVS
         esp_err_t ret = nvs_flash_init();
         if (ret == ESP_ERR_NVS_NO_FREE_PAGES || ret == ESP_ERR_NVS_NEW_VERSION_FOUND) {
@@ -94,6 +134,7 @@ private:
             ret = nvs_flash_init();
         }
         ESP_ERROR_CHECK(ret);
+
 
         instance_ = this;  // Set the instance to the current object
         wifi_init_config_t cfg = WIFI_INIT_CONFIG_DEFAULT();
@@ -104,6 +145,8 @@ private:
 
         esp_wifi_set_promiscuous(true);
         esp_wifi_set_promiscuous_rx_cb(&packetHandler);  // Set the callback function
+
+        
     }
 
     void hopChannel(int channel) {
