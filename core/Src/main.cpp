@@ -9,6 +9,7 @@
 #include <thread>
 #include <queue>
 #include <semaphore>
+#include <atomic>
 
 #include "esp_vfs_dev.h"
 #include "driver/uart.h"
@@ -19,18 +20,18 @@ class WifiSniffer {
 public:
     WifiSniffer(Logger& logger) : logger_(logger), tag_("wifi-sniffer") {}
 
-    void start() {
-        ESP_LOGI(tag_, "Starting WiFi Sniffer");
+    void userInput()
+    {
+        char ch;
+        do
+        {
         
-
-            init_uart();
-
+        if(init_uart()!=ESP_OK)
+                return;
             char userTargetMac[18];
             std::cout<<"Please enter target MAC:\n";   
             std::cin>> userTargetMac;
             std::cout<<"UserTargetMac is:"<<userTargetMac<<"\n";
-
-
 
         if (sscanf(userTargetMac, "%hhx:%hhx:%hhx:%hhx:%hhx:%hhx",
                &targetMac[0], &targetMac[1], &targetMac[2],
@@ -38,23 +39,50 @@ public:
         {
             std::cout<<"Invalid MAC address format.\n";
             return;
-        }    
+        }
         
+        flag = true;
+        std::thread thread2(&WifiSniffer<Logger>::start,this);
+        std::cin>>ch;
+        flag = false;
+        thread2.join();
+        }
+        while(ch!='n');
+
+        return;           
+    }
+    
+    
+    void start() {
+        ESP_LOGI(tag_, "Starting WiFi Sniffer");  
 
         init();
 
         while (1) {
 
-            for (int channel = 3; channel <= 3; channel++) {
+            for (int channel = 1; channel <= 14; channel++) {
+                if(!flag) 
+                {
+                    esp_wifi_stop();
+                    break;
+                }    
+                if(flag)
+                {
                 hopChannel(channel);
-                vTaskDelay(10000 / portTICK_PERIOD_MS);  // Delay for 5 seconds between channel hops
+                vTaskDelay(3000 / portTICK_PERIOD_MS);
+                }  // Delay for 5 seconds between channel hops
             }
+
+            if(!flag)
+            break;
         }
+        return;
     }
 
 private:
 
     uint8_t targetMac[6];// = {0x04, 0x95, 0xe6, 0xf4, 0xfa, 0x11};  10-5B-AD-52-AD-81
+    std::atomic<bool> flag = true;
     //static std::queue<std::pair<void *,void *>> q;
     //std::binary_semaphore prepareSignal(0);
     static WifiSniffer<Logger>* instance_;  // Static member variable to store the instance
@@ -111,17 +139,26 @@ private:
          //vTaskDelay(1000/ portTICK_PERIOD_MS);
     }
 
-    void init_uart()
+    esp_err_t init_uart()
     {
-        setvbuf(stdin, NULL, _IONBF, 0);
+        
+    static bool configured = false;
+    if (configured) {
+      return ESP_OK;
+    }
+    // Initialize VFS & UART so we can use std::cout/cin
+    setvbuf(stdin, NULL, _IONBF, 0);
     /* Install UART driver for interrupt-driven reads and writes */
-        ESP_ERROR_CHECK( uart_driver_install( (uart_port_t)CONFIG_ESP_CONSOLE_UART_NUM,
+    ESP_ERROR_CHECK( uart_driver_install( (uart_port_t)CONFIG_ESP_CONSOLE_UART_NUM,
             256, 0, 0, NULL, 0) );
-    /* Tell VFS to use UART driver */
+   /* Tell VFS to use UART driver */
         esp_vfs_dev_uart_use_driver(CONFIG_ESP_CONSOLE_UART_NUM);
         esp_vfs_dev_uart_port_set_rx_line_endings(CONFIG_ESP_CONSOLE_UART_NUM, ESP_LINE_ENDINGS_CR);
     /* Move the caret to the beginning of the next line on '\n' */
         esp_vfs_dev_uart_port_set_tx_line_endings(CONFIG_ESP_CONSOLE_UART_NUM, ESP_LINE_ENDINGS_CRLF);
+    configured = true;
+    return ESP_OK;
+
     }
 
     void init() {
@@ -185,17 +222,17 @@ public:
 extern "C" void app_main() {
     ConsoleLogger consoleLogger;
     WifiSniffer<ConsoleLogger> wifiSniffer(consoleLogger);
-    std::thread thread1(&WifiSniffer<ConsoleLogger>::start,&wifiSniffer);
-    //vTaskDelay(100 / portTICK_PERIOD_MS);
-    //std::thread thread2(WifiSniffer<ConsoleLogger>* WifiSniffer<ConsoleLogger>::instance_->handlePacket);
+
+    std::thread thread1(&WifiSniffer<ConsoleLogger>::userInput,&wifiSniffer);
     thread1.join();
-    //thread2.join();
+
+    return;
 }
 
 
 
 
-// #include <iostream>
+// #include <iostream> 34 53 d2 b9 e8 a5
 // #include "freertos/FreeRTOS.h"
 // #include "freertos/task.h"
 // #include "freertos/event_groups.h"
