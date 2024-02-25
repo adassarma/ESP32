@@ -1,0 +1,2657 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.02.24 16:38:24 =~=~=~=~=~=~=~=~=~=~=~=
+ (78661) wifi:failed to post WiFi event=40 ret=259
+I (78661) wifi-sniffer: Sniffing on Channel: 11
+Packet No: : 96
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 97
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 98
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -97
+CHANNEL: 11
+
+Packet No: : 99
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 100
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 101
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 102
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 103
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 104
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 105
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 106
+Receiver MAC Address: 82 59 91 27 d9 ac 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 107
+Receiver MAC Address: 82 59 91 27 d9 ac 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 108
+Receiver MAC Address: 82 59 91 27 d9 ac 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 109
+Receiver MAC Address: 82 59 91 27 d9 ac 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 110
+Receiver MAC Address: 82 59 91 27 d9 ac 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 111
+Receiver MAC Address: 82 59 91 27 d9 ac 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 112
+Receiver MAC Address: 82 59 91 27 d9 ac 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 113
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 114
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 115
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 116
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 117
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -97
+CHANNEL: 11
+
+Packet No: : 118
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 119
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 120
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 121
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 122
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 123
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 124
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 125
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 126
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 127
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 128
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 129
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 130
+Receiver MAC Address: d2 31 25 cf 43 25 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 131
+Receiver MAC Address: d2 31 25 cf 43 25 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 132
+Receiver MAC Address: d2 31 25 cf 43 25 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 133
+Receiver MAC Address: d2 31 25 cf 43 25 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 134
+Receiver MAC Address: d2 31 25 cf 43 25 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 135
+Receiver MAC Address: d2 31 25 cf 43 25 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 136
+Receiver MAC Address: d2 31 25 cf 43 25 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 137
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 138
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+E (81661) wifi:failed to post WiFi event=40 ret=259
+I (81661) wifi-sniffer: Sniffing on Channel: 12
+E (84661) wifi:failed to post WiFi event=40 ret=259
+I (84661) wifi-sniffer: Sniffing on Channel: 13
+E (87661) wifi:failed to post WiFi event=40 ret=259
+I (87661) wifi-sniffer: Sniffing on Channel: 10
+E (90661) wifi:failed to post WiFi event=40 ret=259
+I (90661) wifi-sniffer: Sniffing on Channel: 11
+Packet No: : 139
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 140
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 141
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 142
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 143
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 144
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 145
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 146
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 147
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 148
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 149
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 150
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 151
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 152
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 153
+Receiver MAC Address: b2 f1 49 2c 2e 2e 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 154
+Receiver MAC Address: b2 f1 49 2c 2e 2e 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 155
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 156
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 157
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 158
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 159
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 160
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 161
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 162
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 163
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 164
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 165
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 166
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 167
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 168
+Receiver MAC Address: aa a4 57 90 c1 06 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 169
+Receiver MAC Address: aa a4 57 90 c1 06 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 170
+Receiver MAC Address: aa a4 57 90 c1 06 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 171
+Receiver MAC Address: aa a4 57 90 c1 06 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 172
+Receiver MAC Address: aa a4 57 90 c1 06 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 173
+Receiver MAC Address: aa a4 57 90 c1 06 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 174
+Receiver MAC Address: aa a4 57 90 c1 06 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 175
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 176
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+E (93661) wifi:failed to post WiFi event=40 ret=259
+I (93661) wifi-sniffer: Sniffing on Channel: 12
+E (96661) wifi:failed to post WiFi event=40 ret=259
+I (96661) wifi-sniffer: Sniffing on Channel: 13
+E (99661) wifi:failed to post WiFi event=40 ret=259
+I (99661) wifi-sniffer: Sniffing on Channel: 10
+E (102661) wifi:failed to post WiFi event=40 ret=259
+I (102661) wifi-sniffer: Sniffing on Channel: 11
+Packet No: : 177
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 178
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 179
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 180
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 181
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 182
+Receiver MAC Address: 52 37 37 99 c6 26 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 183
+Receiver MAC Address: 52 37 37 99 c6 26 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 184
+Receiver MAC Address: 52 37 37 99 c6 26 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 185
+Receiver MAC Address: 52 37 37 99 c6 26 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 186
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 187
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 188
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 189
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 190
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 191
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 192
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 193
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 194
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 195
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 196
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 197
+Receiver MAC Address: 0e ea 89 90 34 c9 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 198
+Receiver MAC Address: 0e ea 89 90 34 c9 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 199
+Receiver MAC Address: 0e ea 89 90 34 c9 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 200
+Receiver MAC Address: 0e ea 89 90 34 c9 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 201
+Receiver MAC Address: 0e ea 89 90 34 c9 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 202
+Receiver MAC Address: 0e ea 89 90 34 c9 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 203
+Receiver MAC Address: 0e ea 89 90 34 c9 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 204
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 205
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 206
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 207
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 208
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 209
+Receiver MAC Address: b0 a4 60 30 15 b0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 210
+Receiver MAC Address: b0 a4 60 30 15 b0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 211
+Receiver MAC Address: b0 a4 60 30 15 b0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 212
+Receiver MAC Address: b0 a4 60 30 15 b0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 213
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 214
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 215
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 216
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 217
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 218
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 219
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 220
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+E (105661) wifi:failed to post WiFi event=40 ret=259
+I (105661) wifi-sniffer: Sniffing on Channel: 12
+Packet No: : 221
+Receiver MAC Address: 34 53 d2 b9 e8 a5 
+Sender MAC Address: de 6a bc e8 1a d0 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -58
+CHANNEL: 12
+
+E (108661) wifi:failed to post WiFi event=40 ret=259
+I (108661) wifi-sniffer: Sniffing on Channel: 13
+E (111661) wifi:failed to post WiFi event=40 ret=259
+I (111661) wifi-sniffer: Sniffing on Channel: 10
+E (114661) wifi:failed to post WiFi event=40 ret=259
+I (114661) wifi-sniffer: Sniffing on Channel: 11
+Packet No: : 222
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 223
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 224
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 225
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 226
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 227
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 228
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 229
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 230
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 231
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 232
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 233
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 234
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 235
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -97
+CHANNEL: 11
+
+Packet No: : 236
+Receiver MAC Address: dc a6 32 3f b4 ec 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 237
+Receiver MAC Address: dc a6 32 3f b4 ec 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 238
+Receiver MAC Address: dc a6 32 3f b4 ec 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 239
+Receiver MAC Address: dc a6 32 3f b4 ec 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 240
+Receiver MAC Address: dc a6 32 3f b4 ec 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 241
+Receiver MAC Address: dc a6 32 3f b4 ec 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 242
+Receiver MAC Address: dc a6 32 3f b4 ec 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 243
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 244
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 245
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 246
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 247
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 248
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 249
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 250
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 251
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 252
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 253
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 254
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 255
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 256
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 257
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 258
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+E (117661) wifi:failed to post WiFi event=40 ret=259
+I (117661) wifi-sniffer: Sniffing on Channel: 12
+Packet No: : 259
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 12
+
+E (120661) wifi:failed to post WiFi event=40 ret=259
+I (120661) wifi-sniffer: Sniffing on Channel: 13
+E (123661) wifi:failed to post WiFi event=40 ret=259
+I (123661) wifi-sniffer: Sniffing on Channel: 10
+E (126661) wifi:failed to post WiFi event=40 ret=259
+I (126661) wifi-sniffer: Sniffing on Channel: 11
+Packet No: : 260
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 261
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 262
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 263
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 264
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 265
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 266
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 267
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 268
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 269
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 270
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 271
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 272
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 273
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 274
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 275
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -97
+CHANNEL: 11
+
+Packet No: : 276
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 277
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 278
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 279
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 280
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 281
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 282
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 283
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 284
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 285
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 286
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 287
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 288
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 289
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 290
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 291
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 292
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 293
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 294
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 295
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 296
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 297
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -97
+CHANNEL: 11
+
+Packet No: : 298
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 299
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 300
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 301
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 302
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 303
+Receiver MAC Address: 74 95 ec e0 b7 31 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 304
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 305
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 306
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+E (129661) wifi:failed to post WiFi event=40 ret=259
+I (129661) wifi-sniffer: Sniffing on Channel: 12
+E (132661) wifi:failed to post WiFi event=40 ret=259
+I (132661) wifi-sniffer: Sniffing on Channel: 13
+E (135661) wifi:failed to post WiFi event=40 ret=259
+I (135661) wifi-sniffer: Sniffing on Channel: 10
+E (138661) wifi:failed to post WiFi event=40 ret=259
+I (138661) wifi-sniffer: Sniffing on Channel: 11
+Packet No: : 307
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 308
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 309
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 310
+Receiver MAC Address: de 6a bc e8 1a d0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 311
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -97
+CHANNEL: 11
+
+Packet No: : 312
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 313
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 314
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 315
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 316
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 317
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 318
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 319
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 320
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 321
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 322
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 323
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 324
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 325
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 326
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 327
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 328
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 329
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 330
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 331
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 332
+Receiver MAC Address: 02 fd 7e 28 0e b2 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 333
+Receiver MAC Address: 02 fd 7e 28 0e b2 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 334
+Receiver MAC Address: 02 fd 7e 28 0e b2 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 335
+Receiver MAC Address: 02 fd 7e 28 0e b2 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 336
+Receiver MAC Address: 02 fd 7e 28 0e b2 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 337
+Receiver MAC Address: 02 fd 7e 28 0e b2 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 338
+Receiver MAC Address: 02 fd 7e 28 0e b2 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 339
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 340
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 341
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 342
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 343
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+E (141661) wifi:failed to post WiFi event=40 ret=259
+I (141661) wifi-sniffer: Sniffing on Channel: 12
+Packet No: : 344
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 12
+
+E (144661) wifi:failed to post WiFi event=40 ret=259
+I (144661) wifi-sniffer: Sniffing on Channel: 13
+E (147661) wifi:failed to post WiFi event=40 ret=259
+I (147661) wifi-sniffer: Sniffing on Channel: 10
+E (150661) wifi:failed to post WiFi event=40 ret=259
+I (150661) wifi-sniffer: Sniffing on Channel: 11
+Packet No: : 345
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 346
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 347
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 348
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 349
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 350
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 351
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 352
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 353
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 354
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 355
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 356
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 357
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 358
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 359
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 360
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 361
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 362
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 363
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 364
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 365
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 366
+Receiver MAC Address: da c1 5b d6 b5 cc 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 367
+Receiver MAC Address: da c1 5b d6 b5 cc 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 368
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 369
+Receiver MAC Address: da c1 5b d6 b5 cc 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 370
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 371
+Receiver MAC Address: 9a b7 62 5f 3b f0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 372
+Receiver MAC Address: 9a b7 62 5f 3b f0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 373
+Receiver MAC Address: 9a b7 62 5f 3b f0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 374
+Receiver MAC Address: 9a b7 62 5f 3b f0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 375
+Receiver MAC Address: 9a b7 62 5f 3b f0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 376
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 377
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 378
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -91
+CHANNEL: 11
+
+Packet No: : 379
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+E (153661) wifi:failed to post WiFi event=40 ret=259
+I (153661) wifi-sniffer: Sniffing on Channel: 12
+Packet No: : 380
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 12
+
+Packet No: : 381
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 12
+
+E (156661) wifi:failed to post WiFi event=40 ret=259
+I (156661) wifi-sniffer: Sniffing on Channel: 13
+E (159661) wifi:failed to post WiFi event=40 ret=259
+I (159661) wifi-sniffer: Sniffing on Channel: 10
+E (162661) wifi:failed to post WiFi event=40 ret=259
+I (162661) wifi-sniffer: Sniffing on Channel: 11
+Packet No: : 382
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 383
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 384
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 385
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 386
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 387
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 388
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 389
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 390
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 391
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 392
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 393
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 394
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 395
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 396
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 397
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -92
+CHANNEL: 11
+
+Packet No: : 398
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 399
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 400
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 401
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 402
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 403
+Receiver MAC Address: b0 a4 60 30 15 b0 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 404
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 405
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 406
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 407
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 408
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 409
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 410
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 411
+Receiver MAC Address: 92 e6 78 e5 7a 94 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 11
+
+Packet No: : 412
+Receiver MAC Address: 92 e6 78 e5 7a 94 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 413
+Receiver MAC Address: 92 e6 78 e5 7a 94 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -93
+CHANNEL: 11
+
+Packet No: : 414
+Receiver MAC Address: 92 e6 78 e5 7a 94 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 415
+Receiver MAC Address: 92 e6 78 e5 7a 94 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 416
+Receiver MAC Address: 92 e6 78 e5 7a 94 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -95
+CHANNEL: 11
+
+Packet No: : 417
+Receiver MAC Address: 92 e6 78 e5 7a 94 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+Packet No: : 418
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -94
+CHANNEL: 11
+
+E (165661) wifi:failed to post WiFi event=40 ret=259
+I (165661) wifi-sniffer: Sniffing on Channel: 12
+Packet No: : 419
+Receiver MAC Address: ff ff ff ff ff ff 
+Sender MAC Address: 34 53 d2 b9 e8 a5 
+Filtering MAC Address: 34 53 d2 b9 e8 a5 
+Packet Type: MANAGEMENT
+RSSI: -96
+CHANNEL: 12
+
+E (168661) wifi:failed to post WiFi event=40 ret=259
+I (168661) wifi-sniffer: Sniffing on Channel: 13
+E (171661) wifi:failed to post WiFi event=40 ret=259
+I (171661) wifi-sniffer: Sniffing on Channel: 10

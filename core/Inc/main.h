@@ -9,10 +9,16 @@ typedef struct {
   uint8_t addr3[6]; /* filtering address */
   unsigned sequence_ctrl:16;
   uint8_t addr4[6]; /* optional */
-} wifi_ieee80211_mac_hdr_t;
+} __attribute__((packed)) wifi_ieee80211_mac_hdr_t;
 
 typedef struct {
   wifi_ieee80211_mac_hdr_t hdr;
   uint8_t payload[0]; /* network data ended with 4 bytes csum (CRC32) */
-} wifi_ieee80211_packet_t;
+} __attribute__((packed)) wifi_ieee80211_packet_t;
+
+#define BitVal(data,y) ( (data>>y) & 1)      /** Return Data.Y value   **/
+#define SetBit(data,y)    data |= (1 << y)    /** Set Data.Y   to 1    **/
+#define ClearBit(data,y)  data &= ~(1 << y)   /** Clear Data.Y to 0    **/
+#define ToggleBit(data,y)     (data ^=BitVal(y))     /** Togle Data.Y  value  **/
+#define Toggle(data)   (data =~data )         /** Togle Data value     **/
 

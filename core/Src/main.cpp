@@ -60,7 +60,7 @@ public:
 
         while (1) {
 
-            for (int channel = 1; channel <= 14; channel++) {
+            for (int channel = 10; channel <= 14; channel++) {
                 if(!flag) 
                 {
                     esp_wifi_stop();
@@ -81,8 +81,9 @@ public:
 
 private:
 
-    uint8_t targetMac[6];// = {0x04, 0x95, 0xe6, 0xf4, 0xfa, 0x11};  10-5B-AD-52-AD-81
+    uint8_t targetMac[6];// = {0x04, 0x95, 0xe6, 0xf4, 0xfa, 0x11};  10-5B-AD-52-AD-81 ; 90-65-84-58-F3-8B
     std::atomic<bool> flag = true;
+    int packetno=0;
     //static std::queue<std::pair<void *,void *>> q;
     //std::binary_semaphore prepareSignal(0);
     static WifiSniffer<Logger>* instance_;  // Static member variable to store the instance
@@ -102,7 +103,7 @@ private:
         //void * type = q.front().second;
          //type = reinterpret_cast<wifi_promiscuous_pkt_type_t>(type);
         //q.pop();
-        if (type == WIFI_PKT_MGMT) {
+        //if (type == WIFI_PKT_MGMT) {
             wifi_promiscuous_pkt_t *pkt = reinterpret_cast<wifi_promiscuous_pkt_t *>(buff);
             wifi_ieee80211_packet_t *ipkt = reinterpret_cast<wifi_ieee80211_packet_t *> (pkt->payload);
             wifi_ieee80211_mac_hdr_t *hdr = &ipkt->hdr;
@@ -111,8 +112,13 @@ private:
             // Adjust the offset based on the frame structure
             // 
 
-            if(std::equal(hdr->addr1, hdr->addr1 + 6, std::begin(targetMac))||std::equal(hdr->addr2, hdr->addr2 + 6, std::begin(targetMac)))
+            if(std::equal(hdr->addr1, hdr->addr1 + 6, std::begin(targetMac))||std::equal(hdr->addr2, hdr->addr2 + 6, std::begin(targetMac))
+            ||std::equal(hdr->addr3, hdr->addr3 + 6, std::begin(targetMac))||std::equal(hdr->addr4, hdr->addr4 + 6, std::begin(targetMac)))
             {
+            
+            //std::cout.setf(std::ios_base::binary);
+            //Serial.write(*hdr);
+            logger_.log("Packet No: ",++packetno);
             logger_.log("Receiver MAC Address", hdr->addr1,6);
             logger_.log("Sender MAC Address", hdr->addr2,6);
             logger_.log("Filtering MAC Address", hdr->addr3,6);
@@ -120,23 +126,39 @@ private:
             // Extract relevant information from the packet
             auto rssi = pkt->rx_ctrl.rssi;
             auto chan = pkt->rx_ctrl.channel;
-            auto timestamp = pkt->rx_ctrl.timestamp;
-            auto cwb = "";
-            if(pkt->rx_ctrl.cwb==0)
-            cwb = "20MHz";
-            else if(pkt->rx_ctrl.cwb==1)
-            cwb = "40MHz";
+            // uint16_t framecontrol = hdr->frame_ctrl;
+            // uint8_t bit_2 = BitVal(framecontrol,2); 
+            // uint8_t bit_3 = BitVal(framecontrol,3);
+
+            std::cout<<"Packet Type: ";
+            if(type == WIFI_PKT_MGMT)
+            std::cout<<"MANAGEMENT\n";
+            else if(type == WIFI_PKT_CTRL)
+            std::cout<<"CONTROL\n";
+            else if(type == WIFI_PKT_DATA)
+            std::cout<<"DATA\n";
+            else
+            std::cout<<"EXTENSION\n";
+
+            //std::cout<<"Confirmation :"<<type<<"\n"; 
+            //auto timestamp = pkt->rx_ctrl.timestamp;
+            //auto cwb = "";
+            // if(pkt->rx_ctrl.cwb==0)
+            // cwb = "20MHz";
+            // else if(pkt->rx_ctrl.cwb==1)
+            // cwb = "40MHz";
             logger_.log("RSSI", rssi);
             logger_.log("CHANNEL",chan);
-            logger_.log("CHANNEL BW",cwb);
-            logger_.log("TIMESTAMP",timestamp);
+            std::cout<<"\n";
+            //logger_.log("CHANNEL BW",cwb);
+            //logger_.log("TIMESTAMP",timestamp);
 
-            size_t packet_len = pkt->rx_ctrl.sig_len;
+            //size_t packet_len = pkt->rx_ctrl.sig_len;
             // Logging the first 16 bytes of payload
-            logger_.log("Packet Payload (first 16 bytes)", pkt->payload, std::min((std::size_t)16, packet_len));
+            //logger_.log("Packet Payload (first 16 bytes)", pkt->payload, std::min((std::size_t)16, packet_len));
         }
-    }
          //vTaskDelay(1000/ portTICK_PERIOD_MS);
+    //} 
     }
 
     esp_err_t init_uart()
